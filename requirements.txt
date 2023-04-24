@@ -1,0 +1,5 @@
+pandas==1.5.*
+streamlit==1.21.*
+numpy==1.24.*
+keras==2.12.*
+tensorflow==2.11.*
